@@ -1,3 +1,3 @@
 export default function() {
-  document.write('I\'m using npm script');
+  document.write('I\'m using config file.');
 }
