@@ -1,4 +1,7 @@
+import './style.css';
 import addContent from "./add-content";
+import React from 'react'
+import('./bar.js')
 
-document.write('My Webpack app.<br />');
 addContent();
+document.write('index.js', React.version);

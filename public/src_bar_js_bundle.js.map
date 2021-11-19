@@ -1,0 +1,1 @@
+{"version":3,"file":"src_bar_js_bundle.js","mappings":";;;;;;;;;;;AAA0B;;AAE1B,sBAAsB,0CAAa","sources":["webpack://webpack-demo/./src/bar.js"],"sourcesContent":["import React from 'react';\n\nconsole.log('bar.js', React.version);\n"],"names":[],"sourceRoot":""}

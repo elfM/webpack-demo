@@ -1,3 +1,3 @@
 export default function() {
-  document.write('I\'m using config file.');
+  document.write('<h2>I\'m using config file.<h2>');
 }
